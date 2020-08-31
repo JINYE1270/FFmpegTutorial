@@ -107,6 +107,7 @@
 		2BF80BF924FCD85C004BE343 /* libavcodec.58.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libavcodec.58.dylib; sourceTree = "<group>"; };
 		2BF80C0424FCDCCD004BE343 /* ffmpegtutorial01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ffmpegtutorial01.c; sourceTree = "<group>"; };
 		2BF80C0724FCE383004BE343 /* demo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.mp4; sourceTree = "<group>"; };
+		2BF80C7F24FCFAFF004BE343 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +133,7 @@
 		2BF80B8224FCD4E1004BE343 = {
 			isa = PBXGroup;
 			children = (
+				2BF80C7F24FCFAFF004BE343 /* README.md */,
 				2BF80C0724FCE383004BE343 /* demo.mp4 */,
 				2BF80C0424FCDCCD004BE343 /* ffmpegtutorial01.c */,
 				2BF80B8D24FCD4E1004BE343 /* FFTest */,
